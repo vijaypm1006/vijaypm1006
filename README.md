@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @vijaypm1006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @vijay
+- 👀 I’m interested in web developer.
+- 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-vijaypm1006/vijaypm1006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vijaypm1006/vijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->

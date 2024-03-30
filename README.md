@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @vijay
-- 👀 I’m interested in web developer.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there! 👋 I'm Vijay P.
 
-<!---
-vijaypm1006/vijay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+About Me
+
+Passionate Python Developer | Open-Source Enthusiast | Continuous Learner
+
+I'm a dedicated Python enthusiast with a knack for building innovative solutions. With a strong foundation in programming and a love for open-source technologies, I'm committed to contributing to exciting projects and learning from the community.
+Skills
+
+    Languages: Python, JavaScript
+    Frameworks: Django, Flask
+    Database: SQL, MongoDB
+    Tools: Git, Docker
+    Others: RESTful APIs, Unit Testing
+    
+
+Get in Touch
+
+📫 Reach out to me via email or connect on LinkedIn.
+
+Let's collaborate and build something awesome together!

@@ -1,18 +1,37 @@
-Hi there! 👋 I'm Vijay P.
+👋 Hello! I'm Vijay
 
+🎓 MCA Graduate | 🌐 Python Developer specializing in Django | 🚀 Aspiring Software Engineer
 
-About Me
+🔭 Current Interests:
 
-Passionate Python Developer | Open-Source Enthusiast | Continuous Learner
+    Web Development: Building dynamic web applications using Python and Django.
+    Backend Development: Creating robust and scalable backend systems using Django.
 
-I'm a dedicated Python enthusiast with a knack for building innovative solutions. With a strong foundation in programming and a love for open-source technologies, I'm committed to contributing to exciting projects and learning from the community.
-Skills
+💡 Skills:
 
-    Languages: Python, JavaScript
-    Frameworks: Django, Flask
-    Database: SQL, MongoDB
-    Tools: Git, Docker
-    Others: RESTful APIs, Unit Testing
+    Languages: Python, Java, HTML, CSS, JavaScript
+    Frameworks: Django
+    Techniques: ORM, MVC in Django, REST API development
+    Databases: SQL, PostgreSQL, SQLite3
+    Tools: Git, Bash, Ubuntu, WordPress
+
+🌱 What I'm Learning:
+
+    Advanced Django techniques
+    RESTful API design and implementation
+    Database optimization and management
+
+📚 Experience:
+
+    Managed and optimized content for company website using WordPress.
+    Created visual promotions to boost engagement on digital platforms.
+    Led Cuddalore GLUG, organizing sessions on free software and enhancing community technical skills.
+
+🚀 Goals:
+
+    Contribute to open-source projects.
+    Collaborate with dynamic development teams.
+    Continuously improve my coding and software engineering skills.
     
 
 Get in Touch
